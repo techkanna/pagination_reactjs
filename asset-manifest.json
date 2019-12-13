@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/pagination_reactjs/static/css/main.27fd15f6.chunk.css",
+    "main.js": "/pagination_reactjs/static/js/main.9458b199.chunk.js",
+    "main.js.map": "/pagination_reactjs/static/js/main.9458b199.chunk.js.map",
+    "runtime-main.js": "/pagination_reactjs/static/js/runtime-main.0aca8695.js",
+    "runtime-main.js.map": "/pagination_reactjs/static/js/runtime-main.0aca8695.js.map",
+    "static/js/2.ecd56469.chunk.js": "/pagination_reactjs/static/js/2.ecd56469.chunk.js",
+    "static/js/2.ecd56469.chunk.js.map": "/pagination_reactjs/static/js/2.ecd56469.chunk.js.map",
+    "index.html": "/pagination_reactjs/index.html",
+    "precache-manifest.49c1e65a87fe0a2db006695d417a4eb5.js": "/pagination_reactjs/precache-manifest.49c1e65a87fe0a2db006695d417a4eb5.js",
+    "service-worker.js": "/pagination_reactjs/service-worker.js",
+    "static/css/main.27fd15f6.chunk.css.map": "/pagination_reactjs/static/css/main.27fd15f6.chunk.css.map",
+    "static/js/2.ecd56469.chunk.js.LICENSE": "/pagination_reactjs/static/js/2.ecd56469.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0aca8695.js",
+    "static/js/2.ecd56469.chunk.js",
+    "static/css/main.27fd15f6.chunk.css",
+    "static/js/main.9458b199.chunk.js"
+  ]
+}
